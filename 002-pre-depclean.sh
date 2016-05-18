@@ -7,4 +7,5 @@ emerge \
     --newuse \
     --deep \
     --with-bdeps=y \
+    $@ \
     @world

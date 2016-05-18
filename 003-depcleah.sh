@@ -2,4 +2,5 @@
 
 emerge \
     -av \
-    --depclean
+    --depclean \
+    $@

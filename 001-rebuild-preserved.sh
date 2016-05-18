@@ -3,4 +3,5 @@
 emerge \
     -av \
     --tree \
+    $@ \
     @preserved-rebuild
